@@ -13,5 +13,5 @@ A zoom replica created using Node.js, Socket.io, Peer.js, and mysql
 
 
 ## The Conference Page 
-### Users are allowed to share video, and real time message either other
+### Users are allowed to share real time streaming video, and real time message each other
 ![IMG_2644](https://user-images.githubusercontent.com/99213631/189997997-063b0a81-8b3a-44b3-a947-9b15726e55db.jpg)
